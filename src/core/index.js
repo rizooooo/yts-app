@@ -1,0 +1,1 @@
+export { default as YTS } from './api';

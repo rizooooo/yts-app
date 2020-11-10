@@ -1,0 +1,23 @@
+// @import "../../../node_modules/bootswatch/dist/cyborg/variables";
+@import "../../../node_modules/bootswatch/dist/cyborg/bootstrap.min.css";
+// @import "../../../node_modules/bootswatch/dist/cyborg/bootswatch";
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.fade-bottom {
+  height: 2.4rem;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #060606
+  );
+}
+
+// html, body, #root {
+//   height: 100%;
+// }
